@@ -37,4 +37,4 @@ Website ini bertujuan untuk memudahkan mahasiswa dan staf dalam melihat ketersed
 * `assets/` - Folder berisi gambar, style css, dan script js.
 
 ---
-*Dibuat untuk memenuhi tugas kuliah webproduction.*
+*Dibuat untuk memenuhi tugas kuliah webproduksi.*
