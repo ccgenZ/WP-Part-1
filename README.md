@@ -33,7 +33,6 @@ Website ini bertujuan untuk memudahkan mahasiswa dan staf dalam melihat ketersed
 * `index.html` - Halaman utama (Landing Page).
 * `page1.html` - Halaman daftar lengkap fasilitas.
 * `page4.html` - Halaman galeri foto.
-* `page3.html` - Halaman riwayat (Coming Soon).
 * `assets/` - Folder berisi gambar, style css, dan script js.
 
 ---
